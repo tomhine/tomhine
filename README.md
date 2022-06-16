@@ -9,7 +9,7 @@ As I mentioned above, I'm Tom Hine. I've spent the last few years immersing myse
 *   🌍  I'm based in Manchester, UK
 *   🖥️  See my portfolio at [tomhine.dev](http://tomhine.dev)
 *   ✉️  You can contact me at [tomhine792@gmail.com](mailto:tomhine792@gmail.com)
-*   🧠  I'm learning Supabase
+*   🧠  I'm currently trying to improve with Next.js, Laravel, Supabase and a few other things. There's always something new to learn!
 
 ### Skills
 <p align="left">

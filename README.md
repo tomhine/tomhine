@@ -8,7 +8,7 @@ As I mentioned above, I'm Tom Hine. I've spent the last few years immersing myse
 
 *   🌍  I'm based in Manchester, UK
 *   🖥️  See my portfolio at [tomhine.dev](http://tomhine.dev)
-*   ✉️  You can contact me at [tomhine992@gmail.com](mailto:tomhine992@gmail.com)
+*   ✉️  You can contact me at [tomhine792@gmail.com](mailto:tomhine792@gmail.com)
 *   🧠  I'm learning Supabase
 
 ### Skills

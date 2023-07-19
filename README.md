@@ -1,7 +1,7 @@
 Hi 👋 My name is Tom Hine
 =========================
 
-Junior Web Developer
+Web Developer
 ---------------------------
 
 As I mentioned above, I'm Tom Hine. I've spent the last few years immersing myself into the web dev space. I spend the first few months with HTML, CSS & JavaScript before moving onto React. This is where things really clicked for me and I was hooked. Since then I've used Vue.js for a few projects and moved further towards the back end with Laravel. I've learnt a lot along the way and I'm really excited to carry on learning well into the future.
@@ -25,12 +25,4 @@ As I mentioned above, I'm Tom Hine. I've spent the last few years immersing myse
                                 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
                                 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
                                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-</p>
-                    
-
-### Socials
-                  
-<p align="left">
-<a href="https://www.github.com/tomhine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/tomehine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>

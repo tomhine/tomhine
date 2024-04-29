@@ -4,10 +4,9 @@ Hi 👋 My name is Tom Hine
 Web Developer
 ---------------------------
 
-As I mentioned above, I'm Tom Hine. I've spent the last few years immersing myself into the web dev space. I spend the first few months with HTML, CSS & JavaScript before moving onto React. This is where things really clicked for me and I was hooked. Since then I've used Vue.js for a few projects and moved further towards the back end with Laravel. I've learnt a lot along the way and I'm really excited to carry on learning well into the future.
-
-*   🌍  I'm based in Manchester, UK
-*   🖥️  See my portfolio at [tomhine.dev](http://tomhine.dev)
+*  I'm based in Manchester, UK
+*  Currently working primarily with Laravel and WordPress
+*  See my portfolio at [tomhine.dev](http://tomhine.dev)
 
 ### Skills
 <p align="left">

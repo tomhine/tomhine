@@ -1,4 +1,4 @@
-Hi 👋 My name is Tom Hine
+Hi 👋 I'm Tom
 =========================
 
 Web Developer
